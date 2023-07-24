@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Neil Kuehnle, PhD."
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Seeking career opportunities in data science and machine learning!"
+  location         : "Chicago, IL"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=neil+kuehnle"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=FnrqdnwAAAAJ"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nkuehnle"
   google_plus      :
   keybase          :
   instagram        :
