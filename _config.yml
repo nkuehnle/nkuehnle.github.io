@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "A"
-  location         : "Location"
+  bio              : "Biomedical PhD and Data Scientist"
+  location         : "Chicago, IL"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=neil+kuehnle"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=FnrqdnwAAAAJ"
