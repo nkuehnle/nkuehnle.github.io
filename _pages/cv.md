@@ -45,9 +45,23 @@ Skills
 
 Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Projects
+Dissertation: The Role of FLICE-Inhibitory Proteins in Primary Effusion Lymphoma
+* Identified novel regulators of TRAIL-R1 cell death and cFLIP dependence in KSHV-associated primary effusion lymphoma using genome-wide synthetic CRISPR rescue screens
+* *Published in the prestigious Cell Death & Differentiation, selected for Reader’s Monthly Choice 
+### Transcriptomic Analysis of KSHV Infection
+* Deployed multiple supervised (KNN, linear regression) and unsupervised (denoising autoencoder, PCA, UMAP, and Leiden clustering) techniques alongside traditional statistical inference (Chi-square, NB-GLM, and Kolmogorov-Smirnov) to single cell data for QA, data cleaning, and hypothesis formation/testing
+* * Determined sample sizes necessary for stable algorithm performance via bootstrapping (yielding 33% savings in cost)
+* Developed a fast Cython tool for analysis of miRNA/k-mer enrichment in bulk RNA samples (rolling hash algorithm + hypergeometric testing)
+### Natural Language Processing on RPG Content
+* Performed doc2vec + unsupervised clustering + semi-supervised multiclass classification to develop section-level data annotations of over 3000 pieces of fan-generated RPG content scraped from Reddit
+* Performed multilabel/multiclass sequence-to-sequence classification built on BERT
+### Predicting Used Car Value
+* Performed ordinal (random forest) regression on the 2023 CarMax dataset to predict (R2: .94 & C-Index: .94) vehicle value on a heavily obfuscated dataset
+* Deployed an interactive Dash application for model inference via Shapley values
+### PiPy-AWC
+* Automated water level controller for home aquaria using a Raspberry Pi
+*	I developed this in part to practice software design patterns like factories, observer/callback, etc.
 
 Publications
 ======
