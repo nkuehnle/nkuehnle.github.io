@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Neil Kuehnle / Data Scientist"
+title                    : "Home / About Neil"
 title_separator          : "-"
 name                     : &name "Neil Kuehnle"
 description              : &description "Biomedical PhD seeking career opportunities in data science"
