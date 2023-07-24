@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Neil Kuehnle: Data Scientist"
+title: "Neil Kuehnle: A data science professional in the biomedical research field."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
