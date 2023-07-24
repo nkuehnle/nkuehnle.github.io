@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV/Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,32 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**PhD.** in Biomedical Science, **Northwestern University** (2023)
+**BSc.** in Molecular Biology, **Loyola University Chicago** (2014)
+* **Certificates:** Management for Scientists and Engineers from Northwestern University Kellogg School of Management
+* **Select Coursework:** Bioinformatics, Quantitative Biology, Biostatistics I/II (Statistical Survey/Regression Analysis), Mathematical Statistics I/II (Probability Theory/Statistical Inference), Machine Learning, Information Management for Data Science (SQL/database management)
+* **Bootcamps:** Programming Concepts & Fundamentals, R Programming, R Tidyverse, Python Programming, Data Wrangling and Visualization in Python
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Northwestern University, Department of Microbiology-Immunology              (Chicago, IL)
+Graduate Research Assistant              January 2017 – Present
+* Studied the role of KSHV in HIV-associated cancers using high-throughput technologies, such as genome -wide CRISPR screening & single-cell sequencing.
+* Served as the primary data scientist in support of 3 grants, including on the largest single-cell genomics study conducted at Northwestern University to-date
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Loyola University Chicago, Department of Bioinformatics              Chicago, IL
+Research Assistant              Aug 2103 – April 2015
+* Studied the microbial diversity of the nearshow waters of am urban, lacustrine environment (Lake Michigan) using targeted (16S rRNA) and shotgun sequencing approaches
+* Worked within a highly interdisciplinary team of biologists/ecologists and statisticians/computer scientists
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python: numpy, pandas, scikit-learn, pytorch, scipy, statsmodels, matplotlib/seaborn, biopython, cython, RPy2 (R API for Python), bs4/requests (web scraping)
+* R: Tidyverse, ggplot, CARAT, and several domain-specific libraries (deseq2, edgeR, seurat, survival, etc)
+* SQL (relational databases)
+* Bash (shell scripting, Linux, high-performance computing)
+* Git
+* Bioinformatics
+* Statistics
+* machine learning
+
+Projects
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
@@ -53,7 +66,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
