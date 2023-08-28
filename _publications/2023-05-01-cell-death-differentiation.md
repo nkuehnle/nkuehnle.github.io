@@ -9,7 +9,9 @@ paperurl: 'https://www.nature.com/articles/s41418-023-01133-0'
 citation: '<b>Kuehnle N</b>, Osbourn S, Liang Z, Manzano M, and Gottwein E. (2023). &quot;CRISPR screens identify novel regulators of cFLIP dependency and ligand-independent, TRAIL-R1-mediated cell death.&quot; <i>Cell Death and Differentation</i>. 30, 1221–1234.'
 ---
 ## Overview
-Part of my dissertation "The Role of FLICE-Inhibitory Proteins in Primary Effusion Lymphoma (PEL)." This paper is published in the prestigious journal Cell Death & Differentiation -- the first and current top journal specific to the vast and important field of cell death. Notably, this paper was selected for the "CDDpress Monthly Reader's Choice." CDDpress is amalgamation of three cell death journals published under a collective arm of the world-renowned Nature Publishing Group.
+Part of my dissertation entitled "The Role of FLICE-Inhibitory Proteins in Primary Effusion Lymphoma (PEL)."
+
+This paper is published in the prestigious journal Cell Death & Differentiation -- the first and current top journal specific to the vast and important field of cell death. Notably, this paper was selected for the "CDDpress Monthly Reader's Choice." CDDpress is amalgamation of three cell death journals published under a collective arm of the world-renowned Nature Publishing Group.
 
 In this work I make use of high-throughput CRISPR-based methods to understand why a human protein is needed to promote the survival of PEL (a cancer caused by the virus KSHV) cells despite the presence of a viral mimic of this protein. In the process I uncover novel regulators and contributors to a recently identified and enigmatic, "non-canonical" cell death process. This has relevance to understanding key aspects of a range of diseases beyond PEL, including other types of cancer, cardiac ischaemia (heart attack), and the rare genetic disorder Charcot-Marie-Tooth neuropathy. Beyond this, my offer the first evidence that can point towards a deeper understandig of general cell biology, in particular how secreted and transmembrane proteins are synthesized.
 
