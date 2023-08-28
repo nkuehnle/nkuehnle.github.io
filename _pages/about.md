@@ -21,5 +21,7 @@ For more details on my work, particularly as it relates to data science, see my 
 Interests and Hobbies
 ======
 I'm a passionate, lifelong learner and dreamer.
+
 My hobbies and interests range from science fiction to fishkeeping (see my PiPy-AWC project for an automated aquarium maintenance device I built using a Raspberry Pi + Python to practice a number of software design patterns).
+
 I'm always looking for ways to keep the learning process fresh and expand on my knowledge in a way that's fun and inspiring.
