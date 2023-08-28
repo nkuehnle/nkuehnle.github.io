@@ -6,7 +6,7 @@ excerpt: 'A review of current research into the host genetic dependencies of KSH
 date: 2022-09-01
 venue: 'Current Opinion in Virology'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S187962572200081'
-citation: 'Kuehnle N, Gottwein E. (2015). &quot;Druggable host gene dependencies in primary effusion lymphoma.&quot; <i>Curr Opin Virol</i>. 56:101270.'
+citation: '<b>Kuehnle N<b>, Gottwein E. (2015). &quot;Druggable host gene dependencies in primary effusion lymphoma.&quot; <i>Curr Opin Virol</i>. 56:101270.'
 ---
 
 ## Overview
