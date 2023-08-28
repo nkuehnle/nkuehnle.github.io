@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-**PhD.** in Biomedical Science, **Northwestern University** (2023)
+**PhD.** in Biomedical Science, **Northwestern University** (2023)<br>
 **BSc.** in Molecular Biology, **Loyola University Chicago** (2014)
 * **Certificates:** Management for Scientists and Engineers from Northwestern University Kellogg School of Management
 * **Select Coursework:** Bioinformatics, Quantitative Biology, Biostatistics I/II (Statistical Survey/Regression Analysis), Mathematical Statistics I/II (Probability Theory/Statistical Inference), Machine Learning, Information Management for Data Science (SQL/database management)
@@ -22,12 +22,12 @@ Education
 
 Experience
 ======
-Northwestern University, Department of Microbiology-Immunology              (Chicago, IL)
+Northwestern University, Department of Microbiology-Immunology              Chicago, IL<br>
 Graduate Research Assistant              January 2017 – Present
 * Studied the role of KSHV in HIV-associated cancers using both sequence and non-sequence based high-throughput technologies, such as genome-wide CRISPR screening, bulk and single-cell RNA (scRNA) sequencing, and automated drug screening
 * Served as the primary data scientist in support of 3 grants, including on the largest single-cell genomics study conducted at Northwestern University to-date
 
-Loyola University Chicago, Department of Bioinformatics              Chicago, IL
+Loyola University Chicago, Department of Bioinformatics              Chicago, IL<br>
 Research Assistant              Aug 2103 – April 2015
 * Studied the microbial diversity of the nearshow waters of am urban, lacustrine environment (Lake Michigan) using targeted (16S rRNA) and shotgun sequencing approaches
 * Worked within a highly interdisciplinary team of biologists/ecologists and statisticians/computer scientists
