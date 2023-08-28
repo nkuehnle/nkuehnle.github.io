@@ -41,7 +41,6 @@ Skills
 
 Projects
 ======
-## Projects
 ### Dissertation: The Role of FLICE-Inhibitory Proteins in Primary Effusion Lymphoma
 * Identified novel regulators of TRAIL-R1 cell death and cFLIP dependence in KSHV-associated primary effusion lymphoma using genome-wide synthetic CRISPR rescue screens
 * Published in the prestigious Cell Death & Differentiation, selected for Reader’s Monthly Choice 
