@@ -22,13 +22,13 @@ Education
 
 Experience
 ======
-Northwestern University, Department of Microbiology-Immunology              Chicago, IL<br>
-Graduate Research Assistant              January 2017 – Present
+**Northwestern University, Department of Microbiology-Immunology** (Chicago, IL)<br>
+**Graduate Research Assistant** (January 2017 – Present)
 * Studied the role of KSHV in HIV-associated cancers using both sequence and non-sequence based high-throughput technologies, such as genome-wide CRISPR screening, bulk and single-cell RNA (scRNA) sequencing, and automated drug screening
 * Served as the primary data scientist in support of 3 grants, including on the largest single-cell genomics study conducted at Northwestern University to-date
 
-Loyola University Chicago, Department of Bioinformatics              Chicago, IL<br>
-Research Assistant              Aug 2103 – April 2015
+**Loyola University Chicago, Department of Bioinformatics** (Chicago, IL(<br>
+**Research Assistant** (Aug 2103 – April 2015)
 * Studied the microbial diversity of the nearshow waters of am urban, lacustrine environment (Lake Michigan) using targeted (16S rRNA) and shotgun sequencing approaches
 * Worked within a highly interdisciplinary team of biologists/ecologists and statisticians/computer scientists
   
@@ -42,7 +42,7 @@ Skills
 Projects
 ======
 ## Projects
-Dissertation: The Role of FLICE-Inhibitory Proteins in Primary Effusion Lymphoma
+### Dissertation: The Role of FLICE-Inhibitory Proteins in Primary Effusion Lymphoma
 * Identified novel regulators of TRAIL-R1 cell death and cFLIP dependence in KSHV-associated primary effusion lymphoma using genome-wide synthetic CRISPR rescue screens
 * Published in the prestigious Cell Death & Differentiation, selected for Reader’s Monthly Choice 
 ### Transcriptomic Analysis of KSHV Infection
