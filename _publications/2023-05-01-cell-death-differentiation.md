@@ -13,12 +13,10 @@ Part of my dissertation "The Role of FLICE-Inhibitory Proteins in Primary Effusi
 
 In this work I make use of high-throughput CRISPR-based methods to understand why a human protein is needed to promote the survival of PEL (a cancer caused by the virus KSHV) cells despite the presence of a viral mimic of this protein. In the process I uncover novel regulators and contributors to a recently identified and enigmatic, "non-canonical" cell death process. This has relevance to understanding key aspects of a range of diseases beyond PEL, including other types of cancer, cardiac ischaemia (heart attack), and the rare genetic disorder Charcot-Marie-Tooth neuropathy. Beyond this, my offer the first evidence that can point towards a deeper understandig of general cell biology, in particular how secreted and transmembrane proteins are synthesized.
 
-## Access and Citation
+## Access
 [Download the open access pre-print (bioRxiv)](http://academicpages.github.io/files/2022.08.17.504167v1.full.pdf)
 
-[Full manuscript available online Cell Death and Differnation](https://doi.org/10.1038/s41418-023-01133-0)
-
-Recommended citation:	Kuehnle N, et al. CRISPR screens identify novel regulators of cFLIP dependency and ligand-independent, TRAIL-R1-mediated cell death. *Cell Death Differ*. 2023 May; 30(5):1221-1234. doi: 10.1038/s41418-023-01133-0.
+[Full manuscript available online Cell Death and Differntiation](https://doi.org/10.1038/s41418-023-01133-0)
 
 
 ## Abstract 
