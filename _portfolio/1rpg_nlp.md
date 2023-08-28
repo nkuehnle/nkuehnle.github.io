@@ -88,6 +88,7 @@ RoBERTA-based sequence classifier modeling on a novel natural language dataset a
 <img src='https://raw.githubusercontent.com/nkuehnle/rpg_nlp/main/eda/TF-IDF_Doc_EDA_DIR_Submission_Flair_UMAP.png' height='66%' width='66%'>
 
 ### Per-Class Performance
+
 |           | Training Recall | Testing Recall | Testing Precision | Testing F1-Score |
 |-----------|-----------------|----------------|-------------------|------------------|
 | Class     | 0.95            | 0.90           | 0.93              | 0.91             |
