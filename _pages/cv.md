@@ -41,20 +41,24 @@ Skills
 
 Projects
 ======
-### Dissertation: The Role of FLICE-Inhibitory Proteins in Primary Effusion Lymphoma
+## Dissertation: The Role of FLICE-Inhibitory Proteins in Primary Effusion Lymphoma
 * Identified novel regulators of TRAIL-R1 cell death and cFLIP dependence in KSHV-associated primary effusion lymphoma using genome-wide synthetic CRISPR rescue screens
 * Published in the prestigious Cell Death & Differentiation, selected for Reader’s Monthly Choice 
-### Transcriptomic Analysis of KSHV Infection
+
+## Transcriptomic Analysis of KSHV Infection
 * Deployed multiple supervised (KNN, linear regression) and unsupervised (deep count autoencoder, PCA, UMAP, and Leiden clustering) machine learning techniques alongside traditional statistical inference methods (Chi-square, NB-GLM, and Kolmogorov-Smirnov) on single cell data for QA, cleaning, and hypothesis formation & testing
-* * Determined sample sizes necessary for stable algorithm performance via bootstrapping (yielding 33% savings in cost)
+*  Determined sample sizes necessary for stable algorithm performance via bootstrapping (yielding 33% savings in cost)
 * Developed a fast Cython tool for analysis of miRNA/k-mer enrichment in bulk RNA samples (rolling hash algorithm + hypergeometric testing)
-### Natural Language Processing on RPG Content ([Repo](https://github.com/nkuehnle/rpg_nlp))
+
+## Natural Language Processing on RPG Content ([Repo](https://github.com/nkuehnle/rpg_nlp))
 *	Scraped and cleaned 3K+ pieces of fan-generated RPG content scraped from Reddit
 *	Predicted multiclass labels using both TF-IFD bag of words (one-vs-rest SVM/SVC) and sequence based (RoBERTA- based transformer), achieving a macro- F1 score of .88 and AUC of .99
-### Predicting Used Car Value
+
+## Predicting Used Car Value
 *	Performed ordinal (random forest) regression on the 2023 CarMax dataset to predict vehicle value on a heavily obfuscated and incomplete dataset, achieved an R2 and concordance index of .94 (both).
 *	Deployed an interactive Dash application for model inference via Shapley values
-### PiPy-AWC
+
+## PiPy-AWC
 * Automated water level controller for home aquaria using a Raspberry Pi
 *	I developed this in part to practice software design patterns like factories, observer/callback, etc.
 
