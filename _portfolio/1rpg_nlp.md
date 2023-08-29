@@ -4,13 +4,14 @@ excerpt: "RoBERTA-based sequence classifier modeling on a novel natural language
 collection: portfolio
 permalink: rpg_nlp
 ---
-## Overview
+
+# Overview
 Briefly, I collected several thousand links to fan generated role playing game content designed for Dungeons and Dragons 5th edition and its Open Gaming License derivatives from the /r/UnearthedAcana and /r/DnDHomebrew subreddits, including post information such as user voting scores and post flairs (user-specified tag keywords).
 For simplicity’s sake, I targeted posts with links to the following domains: homebrewery.naturalcrit.com and gmbinder.com as these websites provide a useful markdownstyle notation for creating this type of content that makes collecting the relevant text convenient (not requiring any optical character recognition, etc). These texts will were used to generate the features for learning while the actual task was to predict the user-provided submission flair, which on /r/UnearthedArcana is both a) mandatory and b) meaningfully related to the kind of types of content that occur in the game rules.
 
 Examples of raw and rendered content taken from the recently-posted public content of gmbinder.com can be found below:
 
-### Example of Raw Markdown/Source Text
+## Example of Raw Markdown/Source Text
 ```
 # Bodysmither Specialist
 There are works that draw fury from the nobility, those that revolt temples, and
@@ -79,15 +80,16 @@ choose, between the following recurring side-effects: <br><br>
 class='image-right-bottom' width='273'>
 \pagebreak
 ```
-### Example of Rendered View
+
+## Example of Rendered View
 <img src='https://nkuehnle.github.io/images/gmbinder_example.jpg' height='150%' width='150%'>
 
-## Performance
+# Performance
 RoBERTA-based sequence classifier modeling on a novel natural language dataset achieving a macro-averaged F1 score of 0.88 with an AUC/ROC of .99.
 
 <img src='https://raw.githubusercontent.com/nkuehnle/rpg_nlp/main/eda/TF-IDF_Doc_EDA_DIR_Submission_Flair_UMAP.png' height='66%' width='66%'>
 
-### Per-Class Performance
+## Per-Class Performance
 
 |           | Training Recall | Testing Recall | Testing Precision | Testing F1-Score |
 |-----------|-----------------|----------------|-------------------|------------------|
@@ -102,8 +104,8 @@ RoBERTA-based sequence classifier modeling on a novel natural language dataset a
 
 Overall, it seems like Feats and Mechanics are holding back performance quite a bit. Feats are likely to have a lot of conceptual overlap with classes and subclasses (i.e. a subclass is really just a collection of "subclass features" which read very similarly to feats). Mechanics are wide and diverse, so learning them may prove a difficult task. While there is some evidence of overitting, the degree of overfitting seems particularly high for mechanics, which makes sense since mechanics are probably one of the most diverse elements in the dataset, sometimes devolving into entire new systems/rules of play that resemble a different game altogether. Beyond that, the Race and Feat labels may also be overfit. For the Race flair/label category, overall testing performance is at least generaly quite impeccable.
 
-## Access
+# Access
 The full repository with notebooks [can be found on my GitHub repo](https:/github.com/nkuehnle/rpg_nlp).
 
-## Data Availability
+# Data Availability
 Data (raw inputs and trained models) are [available on Google Drive](https://drive.google.com/drive/folders/1ORpfjjJTjaTWUFI6DquHMQhqIT8v9k2B).
