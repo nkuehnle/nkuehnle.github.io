@@ -10,6 +10,7 @@ citation: 'Watkins S, <b>Kuehnle N</b>, ..., Putonti C. (2015). &quot;Assessment
 ---
 
 ## Overview
+In this paper, we describe the viral diversity of Lake Michigan--one of the earliest studies of its kind (particularly for that of a populous urban environment). Notably, we show a high abundance of species of the Caudovirales class, which includes phages which infect environmental bacterial involved in basic ecological processes such as <i>Planktothrix</i> (photosynthetic cyanobacteria) and important to public health such as <i>Escherichia</i> and <i>Enterobacteria</i>. Further, we make use of multidimensional scaling (MDS) to compare the diversity of our samples to previously fresh and marine ecological samples which lie closest to freshwater samples, but form their own distinct grouping from either fresh or marine samples.
 
 ## Access
 [Download paper here](https://www.publish.csiro.au/mf/ExportCitation/MF15172)
