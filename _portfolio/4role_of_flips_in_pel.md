@@ -5,4 +5,6 @@ collection: portfolio
 permalink: role_of_flips_in_pel
 ---
 
+A PDF copy of my dissertation is available [here](https://nkuehnle.github.io/files/Neil_Kuehnle_Dissertation.pdf).
+
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://nkuehnle.github.io/files/Neil_Kuehnle_Dissertation.pdf" width="500" height="375">
