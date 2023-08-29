@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently earned my PhD in biomedical science from Northwestern University's Feinberg School of Medicine and have experience as both a classically-trained molecular biologist and as a bioinformatician/data scientist. I am currently pursuing career options in data science and/or machine learning that will allow me to apply the skills and knowledge that I have built through 10+ years of experience in biomedical research.
+I recently earned my PhD in biomedical science from Northwestern University's Feinberg School of Medicine and have experience as both a classically-trained molecular biologist and as a bioinformatician/data scientist. I am currently pursuing career options in the area of data science that will allow me to apply the skills and knowledge that I have built through 10+ years of experience in biomedical research.
 
 Education and Research Background
 ======
