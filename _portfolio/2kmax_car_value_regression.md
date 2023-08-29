@@ -1,6 +1,6 @@
 ---
 title: "Predicting Used Car Values"
-excerpt: "Ordinal regression to predict obfuscated (binned) used car purchase/appraisal prices using tree-based regression methods, in which I achieve an R^2 of 0.91 and concordance score of 0.95.<br>The full repository with notebooks [can be found on my GitHub repo](https://github.com/nkuehnle/kmax_car_value_regression).<br><img src='https://raw.githubusercontent.com/nkuehnle/kmax_car_value_regression/main/images/Ordinal_Regression_Performance.png' height='75%' width='75%'>"
+excerpt: "Ordinal regression to predict used car purchase/appraisal prices in an obfuscated and highly incomplete dataset using iterative imputation methods and tree-based regression methods. Here I achieved an R^2 of 0.91 and concordance score of 0.95 without excluding any incomplete samples.<br>The full repository with notebooks [can be found on my GitHub repo](https://github.com/nkuehnle/kmax_car_value_regression).<br><img src='https://raw.githubusercontent.com/nkuehnle/kmax_car_value_regression/main/images/Ordinal_Regression_Performance.png' height='75%' width='75%'>"
 collection: portfolio
 permalink: kmax_car_value_regression
 ---
