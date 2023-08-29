@@ -1,6 +1,6 @@
 ---
 title: "Predicting Used Car Values"
-excerpt: "Ordinal regression to predict obfuscated (binned) used car purchase/appraisal prices using tree-based regression methods<br>The full repository with notebooks [can be found on my GitHub repo](https://github.com/nkuehnle/kmax_car_value_regression).<br><img src='https://raw.githubusercontent.com/nkuehnle/kmax_car_value_regression/main/images/Ordinal_Regression_Performance.png'height='75%' width='75%'>"
+excerpt: "Ordinal regression to predict obfuscated (binned) used car purchase/appraisal prices using tree-based regression methods<br>The full repository with notebooks [can be found on my GitHub repo](https://github.com/nkuehnle/kmax_car_value_regression).<br><img src='https://raw.githubusercontent.com/nkuehnle/kmax_car_value_regression/main/images/Ordinal_Regression_Performance.png' height='75%' width='75%'>"
 collection: portfolio
 permalink: kmax_car_value_regression
 ---
@@ -15,7 +15,7 @@ Next, I optimize two decision tree regressors (one for appraisals one for purcha
 # Performance
 Overall, after rounding (for ordinal outputs) and combing appraisal and purchase records, R^2 is 0.91, with a concordance index of 0.95, meaning the model predicts true car values with a high degree of accuracy (and when it is wrong it usually is in the correct overall direction relative to the average). Perhaps an even better and (in this case stricter) measure of performance, Kendall's Tau (for ordinal correlation) still produces a value of 0.89 with a p-value of approx 0 (beyond floating point precision).
 
-<img src='https://raw.githubusercontent.com/nkuehnle/kmax_car_value_regression/main/images/Ordinal_Regression_Performance.png'height='75%' width='75%'
+<img src='https://raw.githubusercontent.com/nkuehnle/kmax_car_value_regression/main/images/Ordinal_Regression_Performance.png' height='75%' width='75%'>
 
 # Access
 The full repository with notebooks [can be found on my GitHub repo]https://github.com/nkuehnle/kmax_car_value_regression).
