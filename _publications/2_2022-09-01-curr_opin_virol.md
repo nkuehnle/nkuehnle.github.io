@@ -1,12 +1,12 @@
 ---
-title: "Druggable host gene dependencies in primary effusion lymphoma. "
+title: "Druggable Host Gene Dependencies in Primary Effusion Lymphoma."
 collection: publications
 permalink: /publication/2022-09-01-curr_opin_virol
 excerpt: 'A review of current research into the host genetic dependencies of KSHV-asosciated primary effusion lymphoma.'
 date: 2022-09-01
 venue: 'Current Opinion in Virology'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S187962572200081'
-citation: '<b>Kuehnle N</b>, Gottwein E. (2022). &quot;Druggable host gene dependencies in primary effusion lymphoma.&quot; <i>Curr Opin Virol</i>. 56:101270.</br>'
+citation: '<b>Kuehnle N</b>, Gottwein E. (2022). &quot;Druggable Host Gene Dependencies in Primary Effusion Lymphoma.&quot; <i>Curr Opin Virol</i>. 56:101270.<br>'
 ---
 
 ## Overview
