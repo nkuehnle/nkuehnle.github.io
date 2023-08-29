@@ -2,7 +2,7 @@
 title: "CRISPR screens identify novel regulators of cFLIP dependency and ligand-independent, TRAIL-R1-mediated cell death"
 collection: publications
 permalink: /publication/2023-05-01-cell-death-differentiation
-excerpt: ''
+excerpt: 'A characterization of the role of cellular and viral FLICE-inhibitory proteins in KSHV-associated PEL cells.'
 date: 2023-05-01
 venue: 'Cell Death and Differentation'
 paperurl: 'https://www.nature.com/articles/s41418-023-01133-0'
