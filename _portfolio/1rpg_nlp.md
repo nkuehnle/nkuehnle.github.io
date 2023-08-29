@@ -88,7 +88,7 @@ class='image-right-bottom' width='273'>
 # Performance
 RoBERTA-based sequence classifier modeling on a novel natural language dataset achieving a macro-averaged F1 score of 0.88 with an AUC/ROC of .99.
 
-<img src='https://raw.githubusercontent.com/nkuehnle/rpg_nlp/main/eda/TF-IDF_Doc_EDA_DIR_Submission_Flair_UMAP.png' height='66%' width='66%'>
+<img src='https://raw.githubusercontent.com/nkuehnle/rpg_nlp/main/eda/TF-IDF_Doc_EDA_DIR_Submission_Flair_UMAP.png' height='80%' width='80%'>
 
 ## Per-Class Performance
 
