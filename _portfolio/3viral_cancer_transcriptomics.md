@@ -1,12 +1,12 @@
 ---
 title: "Transcriptomic Analysis of KSHV Infection"
-excerpt: "I performed bulk and single-cell transcriptomic analyses of KSHV infected lymphatic endothelial cells, which are the best available <i>de novo</i> infection for modeling Kaposi's sarcoma. The results of this analysis are still largely confidential due to the competitive nature of this topic right now. A publication is in preparation pending some molecular imaging and mechanistic follow-up studies based on these results. Click above for a short discussion on some of the challenges this dataset presented and some of the methods employed to overcome them.<br><img src'https://nkuehnle.github.io/images/gallery/scRNA_Viral_Gene_Expression_Dotplot.png' height='75%' width='75%'><img src'https://nkuehnle.github.io/images/gallery/scRNA_Gene_Detection_Density.png' height='75%' width='75%'>"
+excerpt: "I performed bulk and single-cell transcriptomic analyses of KSHV infected lymphatic endothelial cells, which are the best available <i>de novo</i> infection for modeling Kaposi's sarcoma. The results of this analysis are still largely confidential due to the competitive nature of this topic right now. A publication is in preparation pending some molecular imaging and mechanistic follow-up studies based on these results. Click above for a short discussion on some of the challenges this dataset presented and some of the methods employed to overcome them.<br><img src='https://nkuehnle.github.io/images/gallery/scRNA_Viral_Gene_Expression_Dotplot.png' height='75%' width='75%'><img src='https://nkuehnle.github.io/images/gallery/scRNA_Gene_Detection_Density.png' height='75%' width='75%'>"
 collection: portfolio
 permalink: rpg_nlp
 ---
 
 # Overview
-I performed bulk and single-cell transcriptomic analyses of KSHV infected lymphatic endothelial cells, which are the best available <i>de novo</i> infection for modeling Kaposi's sarcoma. The results of this analysis are still largely confidential due to the competitive nature of this topic right now. A publication is in preparation pending some molecular imaging and mechanistic follow-up studies based on these results.
+I performed bulk and single-cell transcriptomic analyses of KSHV infected lymphatic endothelial cells (LEC), which are the best available <i>de novo</i> infection for modeling Kaposi's sarcoma. The results of this analysis are still largely confidential due to the competitive nature of this topic right now. A publication is in preparation pending some molecular imaging and mechanistic follow-up studies based on these results.
 
 # General Findings and Methods
 
@@ -23,7 +23,14 @@ It is well-known that one of the biggest issues with single cell sequencing anal
 
 ![Viral Gene Clustering DGE](https://nkuehnle.github.io/images/gallery/scRNA_Gene_Detection_Density.png)
 
+## Gene Expression Analysis
+Typical methods of gene expression analysis in single cell RNA sequencing overestimate variance by treating individual cells as independent replicates. For many reasons, this appears to be inappropriate. Meanwhile, bulk RNA-Sequencing methods, such as DESeq2/EdgeR are able to accurately and reliably identify differentially expressed genes using a negative-binomial GLM. I performed pseudobulking of single cell data by multiple LEC donors and individual clusters to arrive at more modest and robust differential gene expression results. Likewise, we make use of RNA velocity (splicing) to identify pseudotemporal differences within the dataset.
+
+## Bulk Sequencing and miRNA Analyses
+In its predominant infection stage, KSHV expresses only 3 protein coding transcripts, but 20+ miRNAs. These miRNAs are not captured by typical affordable single cell methodologies, thus we performed bulk RNA sequencing alongside hypergeometric modeling to identify key miRNA signatures involved in KSHV-induced gene expression changes.
+
 ### And more!
+This project involves even more, so much that we are still weighing splitting aspects of it (particularly the bulk RNA sequencing focusing on miRNA function and the single cell analysis focusing on virus-induced proliferation).
 
 # Access
 Code will not be made available until pre-prints are available.
