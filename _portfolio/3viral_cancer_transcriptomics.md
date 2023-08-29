@@ -2,7 +2,7 @@
 title: "Transcriptomic Analysis of KSHV Infection"
 excerpt: "I performed bulk and single-cell transcriptomic analyses of KSHV infected lymphatic endothelial cells, which are the best available <i>de novo</i> infection for modeling Kaposi's sarcoma. The results of this analysis are still largely confidential due to the competitive nature of this topic right now. A publication is in preparation pending some molecular imaging and mechanistic follow-up studies based on these results. Click above for a short discussion on some of the challenges this dataset presented and some of the methods employed to overcome them.<br><img src='https://nkuehnle.github.io/images/gallery/scRNA_Viral_Gene_Expression_Dotplot.png' height='75%' width='75%'><img src='https://nkuehnle.github.io/images/gallery/scRNA_Gene_Detection_Density.png' height='75%' width='75%'>"
 collection: portfolio
-permalink: rpg_nlp
+permalink: viral_transcriptomics
 ---
 
 # Overview
