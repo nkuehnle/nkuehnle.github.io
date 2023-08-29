@@ -6,7 +6,7 @@ excerpt: 'A review of current research into the host genetic dependencies of KSH
 date: 2022-09-01
 venue: 'Marine and Freshwater Research'
 paperurl: 'https://www.publish.csiro.au/mf/ExportCitation/MF15172'
-citation: 'Watkins S, <b>Kuehnle N</b>, ..., Putonti C. (2015). &quot;Assessment of a metaviromic dataset generated from nearshore Lake Michigan.&quot; <i>Marine and Freshwater Research</i>. 67(11).</br>'
+citation: 'Watkins S, <b>Kuehnle N</b>, ..., Putonti C. (2015). &quot;Assessment of a metaviromic dataset generated from nearshore Lake Michigan.&quot; <i>Marine and Freshwater Research</i>. 67(11).<br>'
 ---
 
 ## Overview
