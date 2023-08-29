@@ -47,7 +47,7 @@ Projects
 
 ## Transcriptomic Analysis of KSHV Infection (Private Repo)
 * Deployed multiple supervised (KNN, linear regression) and unsupervised (deep count autoencoder, PCA, UMAP, and Leiden clustering) machine learning techniques alongside traditional statistical inference methods (Chi-square, NB-GLM, and Kolmogorov-Smirnov) on single cell data for QA, cleaning, and hypothesis formation & testing
-*  Determined sample sizes necessary for stable algorithm performance via bootstrapping (yielding 33% savings in cost)
+* Estimated sample sizes necessary for stable algorithm performance via bootstrapping of single-cell pilot experiment samples, leading to a 33% reduction in research expenditures
 * Developed a fast Cython tool for analysis of miRNA/k-mer enrichment in bulk RNA samples (rolling hash algorithm + hypergeometric testing)
 
 ## Natural Language Processing on RPG Content ([Repo](https://github.com/nkuehnle/rpg_nlp))
