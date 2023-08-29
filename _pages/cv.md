@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF copy here](https://nkuehnle.github.io/files/Neil_Kuehnle_Resume.pdf) (due to space some of the details included differ)
+[PDF copy here](https://nkuehnle.github.io/files/Neil_Kuehnle_Resume.pdf) (due to limited space some material is not included in the PDF copy)
 
 Education
 ======
