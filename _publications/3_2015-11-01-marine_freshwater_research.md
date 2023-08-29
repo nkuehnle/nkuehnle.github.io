@@ -2,8 +2,8 @@
 title: "Assessment of a metaviromic dataset generated from nearshore Lake Michigan."
 collection: publications
 permalink: /publication/2015-11-01-marine_freshwater_research
-excerpt: 'A review of current research into the host genetic dependencies of KSHV-asosciated primary effusion lymphoma.'
-date: 2022-09-01
+excerpt: 'A sequence-based characterization of the microbial ecology of Chicago's Lake Michigan, particulary that of its viral species/phages.'
+date: 2015-11-01
 venue: 'Marine and Freshwater Research'
 paperurl: 'https://www.publish.csiro.au/mf/ExportCitation/MF15172'
 citation: 'Watkins S, <b>Kuehnle N</b>, ..., Putonti C. (2015). &quot;Assessment of a metaviromic dataset generated from nearshore Lake Michigan.&quot; <i>Marine and Freshwater Research</i>. 67(11).<br>'
