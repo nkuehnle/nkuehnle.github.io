@@ -18,7 +18,7 @@ In my research I make use of both classic molecular biology approaches and high-
 
 Thus, research background is highly multi-disciplinary. I've published in the fields of metagenomics/metaviromics, cell death, and virology. As an undergraduate, I even briefly studied as a double major in physics and completed a short applied research project related to optics and fluid-structure interactions! I have a strong interest in machine learning, though I'm just as comfortable relying on traditional statistical and logical inferences -- whatever tools suit the task best.
 
-For more details on my work, particularly as it relates to data science, see my [Resume](nkuehnle.github.io/cv/) or [Portfolio](nkuehnle.github.io/portfolio/), or if you just want something visually stimulating, see my [Gallery](nkuehnle.github.io/gallery/)!
+For more details on my work, particularly as it relates to data science, see my [Resume](https://nkuehnle.github.io/cv/) or [Portfolio](https://nkuehnle.github.io/portfolio/), or if you just want something visually stimulating, see my [Gallery](https://nkuehnle.github.io/gallery/)!
 
 Interests and Hobbies
 ======
