@@ -1,10 +1,24 @@
 ---
-layout: splash
+layout: default
 title: "Gallery"
 permalink: /gallery/
 author_profile: true
 redirect_from:
   - /visuals
+images:
+  - image_path: /images/gallery/TF-IDF_Doc_EDA_DIR_Submission_Flair_UMAP.png
+    title: 'Spatial embeddings of fan-generated RPG content by label type'
+  - image_path: /images/gallery/Class_word_frequency.png
+    title: 'Example of word usage within a given document'
 ---
 
-{% include image-gallery.html folder="/images/gallery" %}
+{% assign sorted_gallery = site.photo_gallery | sort: 'weight' %}
+<ul class="photo-gallery">
+  {% for image in sorted_gallery %}
+    <li>
+      <a href="{{ image.link }}">
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+      </a>
+    </li>
+  {% endfor %}
+</ul>
