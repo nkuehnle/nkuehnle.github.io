@@ -21,4 +21,5 @@ Overall, after rounding (for ordinal outputs) and combing appraisal and purchase
 The full repository with notebooks [can be found on my GitHub repo]https://github.com/nkuehnle/kmax_car_value_regression).
 
 # Data Availability
-Data (raw inputs, imputed data, trained models, etc.) are available on my GitHub repo above. The original raw data file is available on [CarMax's GitHub](https://github.com/kmx-analytics-showcase/Winter-2023) and were released as part of their Winter 2023 Analytics Showcase.
+Data (raw inputs, imputed data, trained models, etc.) are available on [Google Drive](https://drive.google.com/drive/folders/1EBLUFxuF1HC5frKNgiknoyHh7ZXCunS5?usp=sharing).
+. The original raw data file is available on [CarMax's GitHub](https://github.com/kmx-analytics-showcase/Winter-2023) and were released as part of their Winter 2023 Analytics Showcase.
