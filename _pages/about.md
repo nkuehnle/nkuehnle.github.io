@@ -12,11 +12,13 @@ I recently earned my PhD in biomedical science from Northwestern University's Fe
 
 Education and Research Background
 ======
-I completed my undergraduate education at Loyola University Chicago in molecular biology, where I also studied bioinformatics/genomics and completed both computational and molecular research projects. After this, I started a PhD in the Driskill Graduate Program at Northwestern University (NU), an umbrella program in biomedical sciences. In my research I make use of both classic molecular biology approaches and high-throughput, genome-wide technologies. As a PhD student I had the pleasure to receive formal, deep training in several other topics, including: statistics, machine learning, and business management from excellent instructors within NU's computer science, biostatistics, and management programs.
+I completed my undergraduate education at Loyola University Chicago in molecular biology, where I also studied bioinformatics/genomics and completed both computational and molecular research projects. After this, I started a PhD in the Driskill Graduate Program at Northwestern University (NU), an umbrella program in biomedical sciences.
+
+In my research I make use of both classic molecular biology approaches and high-throughput, genome-wide technologies. As a PhD student I had the pleasure to receive formal, deep training in several other topics, including: statistics, machine learning, and business management from excellent instructors within NU's computer science, biostatistics, and management programs.
 
 My research background thus is highly multi-disciplinary. As an undergraduate, I even briefly studied as a physics major and completed a short applied research project related to optics and fluid-structure interactions!
 
-For more details on my work, particularly as it relates to data science, see my Resume or Portfolio!
+For more details on my work, particularly as it relates to data science, see my [Resume](nkuehnle.github.io/cv/) or [Portfolio](nkuehnle.github.io/portfolio/)!
 
 Interests and Hobbies
 ======
