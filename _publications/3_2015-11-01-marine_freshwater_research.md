@@ -2,7 +2,7 @@
 title: "Assessment of a metaviromic dataset generated from nearshore Lake Michigan."
 collection: publications
 permalink: /publication/2015-11-01-marine_freshwater_research
-excerpt: 'A sequence-based characterization of the microbial ecology of Chicago's Lake Michigan, particulary that of its viral species/phages.'
+excerpt: "A sequence-based characterization of the microbial ecology of Chicago's Lake Michigan, particulary that of its viral species/phages."
 date: 2015-11-01
 venue: 'Marine and Freshwater Research'
 paperurl: 'https://www.publish.csiro.au/mf/ExportCitation/MF15172'
