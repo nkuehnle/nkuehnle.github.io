@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-05-01
 venue: 'Cell Death and Differentation'
 paperurl: 'https://www.nature.com/articles/s41418-023-01133-0'
-citation: '<b>Kuehnle N</b>, Osbourn S, Liang Z, Manzano M, and Gottwein E. (2023). &quot;CRISPR screens identify novel regulators of cFLIP dependency and ligand-independent, TRAIL-R1-mediated cell death.&quot; <i>Cell Death and Differentation</i>. 30, 1221–1234.</br>'
+citation: '<b>Kuehnle N</b>, Osbourn S, Liang Z, Manzano M, and Gottwein E. (2023). &quot;CRISPR screens identify novel regulators of cFLIP dependency and ligand-independent, TRAIL-R1-mediated cell death.&quot; <i>Cell Death and Differentation</i>. 30, 1221–1234.<br>'
 ---
 ## Overview
 Part of my dissertation entitled "The Role of FLICE-Inhibitory Proteins in Primary Effusion Lymphoma (PEL)."
