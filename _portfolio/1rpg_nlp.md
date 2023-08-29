@@ -80,7 +80,7 @@ class='image-right-bottom' width='273'>
 \pagebreak
 ```
 ### Example of Rendered View
-<img src=/images/gmbinder_example.jpg height='150%' width='150%'>
+<img src='https://nkuehnle.github.io/images/gmbinder_example.jpg' height='150%' width='150%'>
 
 ## Performance
 RoBERTA-based sequence classifier modeling on a novel natural language dataset achieving a macro-averaged F1 score of 0.88 with an AUC/ROC of .99.
