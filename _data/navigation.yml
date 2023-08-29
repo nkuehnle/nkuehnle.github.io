@@ -9,5 +9,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Gallery/Visualizations"
-    url: /gallery/
+#  - title: "Gallery"
+#    url: /gallery/
