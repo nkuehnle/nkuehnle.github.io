@@ -1,6 +1,6 @@
 ---
 title: "Transcriptomic Analysis of KSHV Infection"
-excerpt: "I performed bulk and single-cell transcriptomic analyses of KSHV infected lymphatic endothelial cells, which are the best available <i>de novo</i> infection for modeling Kaposi's sarcoma. The results of this analysis are still largely confidential due to the competitive nature of this topic right now. A publication is in preparation pending some molecular imaging and mechanistic follow-up studies based on these results. Click above for a short discussion on some of the challenges this dataset presented and some of the methods employed to overcome them.<br><img src='https://nkuehnle.github.io/images/gallery/scRNA_Viral_Gene_Expression_Dotplot.png' height='75%' width='75%'><img src='https://nkuehnle.github.io/images/gallery/scRNA_Gene_Detection_Density.png' height='75%' width='75%'>"
+excerpt: "I performed bulk and single-cell transcriptomic analyses of KSHV infected lymphatic endothelial cells, which are the best available <i>de novo</i> infection for modeling Kaposi's sarcoma. The results of this analysis are still largely confidential due to the competitive nature of this topic right now. A publication is in preparation pending some molecular imaging and mechanistic follow-up studies based on these results. Click above for a short discussion on some of the challenges this dataset presented and some of the methods employed to overcome them.<br><img src='https://nkuehnle.github.io/images/gallery/scRNA_Viral_Gene_Expression_Dotplot.png' height='66%' width='66%'><img src='https://nkuehnle.github.io/images/gallery/scRNA_Gene_Detection_Density.png' height='50%' width='50%'>"
 collection: portfolio
 permalink: viral_transcriptomics
 ---
@@ -19,9 +19,9 @@ One of the unique aspects of this dataset is the presence of KSHV infected sampl
 ## Identifying Viral Infectious Stage
 It is well-known that one of the biggest issues with single cell sequencing analyses is the sparsity of data and the systematic under-sampling of that data (leading to inflated zero values). Many single cell analyses involve so-called cell cycle scoring, using a set of 40-50 genes to characterize the cell cycle phase of a given cell. However, the KSHV genome is barely over 80 genes in total and some of these genes have unknown or controversial cell type specific expression or latent/lytic behavior. Thus, relying on similar sets of genes to identify viral infectious stage is problematic. We make use of advanved imputation methods to improve geneset scoring alongside a final assignment of viral stage based on clustering data. Through this we've not only been able to clearly identify the stage of viral infection cells are at, but identify certain (undisclosed) viral genes associated with viral latency (the primary stage associated with viral cancers).
 
-![Viral Gene Clustering DGE](https://nkuehnle.github.io/images/gallery/scRNA_Viral_Gene_Expression_Dotplot.png)
+<img src="https://nkuehnle.github.io/images/gallery/scRNA_Viral_Gene_Expression_Dotplot.png" height=75% width=75%>
 
-![Viral Gene Clustering DGE](https://nkuehnle.github.io/images/gallery/scRNA_Gene_Detection_Density.png)
+<img src="https://nkuehnle.github.io/images/gallery/scRNA_Gene_Detection_Density.png" height=75% width=75% >
 
 ## Gene Expression Analysis
 Typical methods of gene expression analysis in single cell RNA sequencing overestimate variance by treating individual cells as independent replicates. For many reasons, this appears to be inappropriate. Meanwhile, bulk RNA-Sequencing methods, such as DESeq2/EdgeR are able to accurately and reliably identify differentially expressed genes using a negative-binomial GLM. I performed pseudobulking of single cell data by multiple LEC donors and individual clusters to arrive at more modest and robust differential gene expression results. Likewise, we make use of RNA velocity (splicing) to identify pseudotemporal differences within the dataset.
