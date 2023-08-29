@@ -7,6 +7,7 @@ permalink: rpg_nlp
 
 # Overview
 Briefly, I collected several thousand links to fan generated role playing game content designed for Dungeons and Dragons 5th edition and its Open Gaming License derivatives from the /r/UnearthedAcana and /r/DnDHomebrew subreddits, including post information such as user voting scores and post flairs (user-specified tag keywords).
+
 For simplicity’s sake, I targeted posts with links to the following domains: homebrewery.naturalcrit.com and gmbinder.com as these websites provide a useful markdownstyle notation for creating this type of content that makes collecting the relevant text convenient (not requiring any optical character recognition, etc). These texts will were used to generate the features for learning while the actual task was to predict the user-provided submission flair, which on /r/UnearthedArcana is both a) mandatory and b) meaningfully related to the kind of types of content that occur in the game rules.
 
 Examples of raw and rendered content taken from the recently-posted public content of gmbinder.com can be found below:
