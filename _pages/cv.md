@@ -34,7 +34,7 @@ Skills
 ======
 *	Python: NumPy, Pandas, Scikit-learn, PyTorch, SciPy, Statsmodels, Matplotlib, Biopython, and more
 *	Other Languages: R (Tidyverse, ggplot), SQL (SQLite), Unix/Linux shell scripting (bash)
-*	Tools/Miscellaneous: Git, AWS, Slurm, NextFlow, Tableau, Excel
+*	Tools/Miscellaneous: Git, GitHub actions, AWS, Slurm, NextFlow, Tableau, Excel
 
 
 Projects
@@ -54,8 +54,7 @@ Projects
 *	Predicted multiclass labels using both TF-IFD bag of words (one-vs-rest SVM/SVC) and sequence based (RoBERTA- based transformer), achieving a macro- F1 score of .88 and AUC of .99
 
 ## Predicting Used Car Value
-*	Performed ordinal (random forest) regression on the 2023 CarMax dataset to predict vehicle value on a heavily obfuscated and incomplete dataset, achieved an R2 and concordance index of .94 (both).
-*	Deployed an interactive Dash application for model inference via Shapley values
+*	Performed ordinal (random forest) regression on the 2023 CarMax dataset to predict vehicle value on a heavily obfuscated and incomplete dataset, achieved an R2 0.91 and concordance index of .95
 
 ## PiPy-AWC
 * Automated water level controller for home aquaria using a Raspberry Pi
