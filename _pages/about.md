@@ -16,7 +16,7 @@ I completed my undergraduate education at Loyola University Chicago in molecular
 
 In my research I make use of both classic molecular biology approaches and high-throughput, genome-wide technologies. As a PhD student I had the pleasure to receive formal, deep training in several other topics, including: statistics, machine learning, and business management from excellent instructors within NU's computer science, biostatistics, and management programs.
 
-Thus, research background is highly multi-disciplinary. I've published in the fields of metagenomics/metaviromics, cell death, and virology. As an undergraduate, I even briefly studied as a double major in physics and completed a short applied research project related to optics and fluid-structure interactions! I have a strong interest in machine learning, though I'm just as comfortable relying on traditional statistical and logical inferences -- whatever tools suit the task best.
+Thus, my research background is highly multi-disciplinary. I've published in the fields of metagenomics/metaviromics, cell death, and virology. As an undergraduate, I even briefly studied as a double major in physics and completed a short applied research project related to optics and fluid-structure interactions! I have a strong interest in machine learning, though I'm just as comfortable relying on traditional statistical and logical inferences -- whatever tools suit the task best.
 
 For more details on my work, particularly as it relates to data science, see my [Resume](https://nkuehnle.github.io/cv/), [Portfolio](https://nkuehnle.github.io/portfolio/), [Publications](https://nkuehnle.github.io/publications/), or if you just want something visually stimulating see my [Gallery](https://nkuehnle.github.io/gallery/)!
 
